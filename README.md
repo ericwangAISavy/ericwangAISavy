@@ -73,7 +73,25 @@ I like ambitious engineering, clean interfaces, and keeping humans firmly in con
 
 <br>
 
-### <code>03 / MY TOOLKIT</code> &nbsp; What I reach for
+### <code>03 / VISUAL SPOTLIGHTS</code> &nbsp; A closer look
+
+<a href="https://github.com/ericwangAISavy/Monster">
+  <img src="./assets/monster-showcase.svg" alt="Monster — experimental AI desktop agent concept featuring companion mascots and its computer-use interface" width="100%" />
+</a>
+
+<sub><b>MONSTER / AI COMPUTER USE</b> — Visual concept and interface preview. Experimental computer-use tooling, local-model integration, and supervised actions are under development.</sub>
+
+<br><br>
+
+<a href="https://github.com/ericwangAISavy/mail-check">
+  <img src="./assets/mail-check-showcase.svg" alt="Mail-Check — cinematic concept illustration for an email-verification tool" width="100%" />
+</a>
+
+<sub><b>MAIL-CHECK / APPLICATION CONCEPT</b> — Exploratory product artwork; illustrated verification features should not be taken as claims of implemented functionality.</sub>
+
+<br><br>
+
+### <code>04 / MY TOOLKIT</code> &nbsp; What I reach for
 
 | &nbsp; | &nbsp; |
 | :--- | :--- |
@@ -83,7 +101,7 @@ I like ambitious engineering, clean interfaces, and keeping humans firmly in con
 
 <br>
 
-### <code>04 / THE PRINCIPLE</code> &nbsp; Powerful technology should feel human
+### <code>05 / THE PRINCIPLE</code> &nbsp; Powerful technology should feel human
 
 > **Give machines more capability. Give people more control.**
 >
