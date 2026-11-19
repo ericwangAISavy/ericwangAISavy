@@ -68,7 +68,7 @@ I like ambitious engineering, clean interfaces, and keeping humans firmly in con
 <sub>Server-side careers-page discovery, structured job data extraction, filtering, and Markdown export.</sub><br><br>
 <code>Next.js</code> <code>Cheerio</code> <code>TypeScript</code>
 </td>
-</tr>
+</tr> 
 </table>
 
 <br>
