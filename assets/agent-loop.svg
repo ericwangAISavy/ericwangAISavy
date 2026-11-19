@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="280" viewBox="0 0 1400 280" role="img" aria-label="Agent loop — perceive, reason, act, verify">
+<title>Agent loop — perceive, reason, act, verify</title><defs><linearGradient id="sbg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1121"/><stop offset="1" stop-color="#12152a"/></linearGradient><linearGradient id="arc" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#bcff75"/><stop offset=".45" stop-color="#ad8fff"/><stop offset="1" stop-color="#76e8ff"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="9"/></filter></defs><rect width="1400" height="280" rx="22" fill="url(#sbg)"/>
+<text x="46" y="41" font-family="'Consolas', 'DejaVu Sans Mono', monospace" font-size="16" letter-spacing="2.2" font-weight="500" fill="#cfe4f2">THE AGENT LOOP</text>
+<text x="1350" y="41" font-family="'Consolas', 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="0.7" font-weight="500" fill="#7f91b0" text-anchor="end">00: PERCEIVE  →  01: REASON  →  02: ACT  →  03: VERIFY</text>
+<path d="M48 61H1352" stroke="#667793" stroke-opacity=".3"/>
+<circle cx="182" cy="121" r="31" fill="#d8ff7c" fill-opacity="0.09" stroke="#d8ff7c" stroke-opacity=".75" stroke-width="1.6"/>
+<text x="182" y="128" font-family="'Consolas', 'DejaVu Sans Mono', monospace" font-size="22" letter-spacing="0" font-weight="600" fill="#f7f8ff" text-anchor="middle">00</text>
+<text x="182" y="193" font-family="'Inter Display', 'Arial', sans-serif" font-size="26" font-weight="760" fill="#e7edf9" letter-spacing="-0.8" opacity="1" text-anchor="middle">PERCEIVE</text>
+<text x="182" y="221" font-family="'Consolas', 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="0.2" font-weight="500" fill="#98a8c2" text-anchor="middle">Understand the interface</text>
+<path d="M222 121 H 480" stroke="#9893c6" stroke-opacity=".55" stroke-width="2" stroke-dasharray="6 8"/>
+<path d="M472 114 l9 7 -9 7" stroke="#b8d8b5" stroke-width="2" fill="none"/>
+<circle cx="522" cy="121" r="31" fill="#d8ff7c" fill-opacity="0.045" stroke="#c09bff" stroke-opacity=".75" stroke-width="1.6"/>
+<text x="522" y="128" font-family="'Consolas', 'DejaVu Sans Mono', monospace" font-size="22" letter-spacing="0" font-weight="600" fill="#f7f8ff" text-anchor="middle">01</text>
+<text x="522" y="193" font-family="'Inter Display', 'Arial', sans-serif" font-size="26" font-weight="760" fill="#e7edf9" letter-spacing="-0.8" opacity="1" text-anchor="middle">REASON</text>
+<text x="522" y="221" font-family="'Consolas', 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="0.2" font-weight="500" fill="#98a8c2" text-anchor="middle">Choose the next step</text>
+<path d="M562 121 H 820" stroke="#9893c6" stroke-opacity=".55" stroke-width="2" stroke-dasharray="6 8"/>
+<path d="M812 114 l9 7 -9 7" stroke="#b8d8b5" stroke-width="2" fill="none"/>
+<circle cx="862" cy="121" r="31" fill="#d8ff7c" fill-opacity="0.045" stroke="#ab92ff" stroke-opacity=".75" stroke-width="1.6"/>
+<text x="862" y="128" font-family="'Consolas', 'DejaVu Sans Mono', monospace" font-size="22" letter-spacing="0" font-weight="600" fill="#f7f8ff" text-anchor="middle">02</text>
+<text x="862" y="193" font-family="'Inter Display', 'Arial', sans-serif" font-size="26" font-weight="760" fill="#e7edf9" letter-spacing="-0.8" opacity="1" text-anchor="middle">ACT</text>
+<text x="862" y="221" font-family="'Consolas', 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="0.2" font-weight="500" fill="#98a8c2" text-anchor="middle">Take a controlled action</text>
+<path d="M902 121 H 1160" stroke="#9893c6" stroke-opacity=".55" stroke-width="2" stroke-dasharray="6 8"/>
+<path d="M1152 114 l9 7 -9 7" stroke="#b8d8b5" stroke-width="2" fill="none"/>
+<circle cx="1202" cy="121" r="31" fill="#d8ff7c" fill-opacity="0.045" stroke="#81ecff" stroke-opacity=".75" stroke-width="1.6"/>
+<text x="1202" y="128" font-family="'Consolas', 'DejaVu Sans Mono', monospace" font-size="22" letter-spacing="0" font-weight="600" fill="#f7f8ff" text-anchor="middle">03</text>
+<text x="1202" y="193" font-family="'Inter Display', 'Arial', sans-serif" font-size="26" font-weight="760" fill="#e7edf9" letter-spacing="-0.8" opacity="1" text-anchor="middle">VERIFY</text>
+<text x="1202" y="221" font-family="'Consolas', 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="0.2" font-weight="500" fill="#98a8c2" text-anchor="middle">Check what changed</text>
+<text x="1350" y="259" font-family="'Consolas', 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="0.8" font-weight="500" fill="#d0ed9a" text-anchor="end">HUMAN APPROVAL  /  WHEN IT MATTERS</text>
+<rect width="1398" height="278" x="1" y="1" rx="21" fill="none" stroke="#9da4c8" stroke-opacity=".22" stroke-width="2"/></svg>

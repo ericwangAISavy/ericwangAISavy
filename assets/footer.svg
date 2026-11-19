@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="245" viewBox="0 0 1400 245" role="img" aria-label="The next interface — Eric Wang">
+<title>The next interface — Eric Wang</title><defs><linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111529"/><stop offset="1" stop-color="#0b0e19"/></linearGradient><linearGradient id="fg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#e0ff77"/><stop offset="1" stop-color="#9fcaff"/></linearGradient></defs><rect width="1400" height="245" rx="20" fill="url(#fbg)"/>
+<rect x="40" y="37" width="11" height="11" rx="5.5" fill="#dcff75"/>
+<text x="65" y="47" font-family="'Consolas', 'DejaVu Sans Mono', monospace" font-size="15" letter-spacing="2" font-weight="500" fill="#d8e2f1">STILL BUILDING</text>
+<text x="1358" y="47" font-family="'Consolas', 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="1.2" font-weight="500" fill="#8c9aaf" text-anchor="end">ERIC WANG   /   2026</text>
+<text x="40" y="151" font-family="'Inter Display', 'Arial', sans-serif" font-size="83" font-weight="790" fill="url(#fg)" letter-spacing="-2.2" opacity="1">THE NEXT INTERFACE</text>
+<text x="45" y="206" font-family="'Consolas', 'DejaVu Sans Mono', monospace" font-size="14" letter-spacing="1.05" font-weight="500" fill="#9babc8">BETTER TOOLS.  MORE CAPABLE PEOPLE.  REAL-WORLD IMPACT.</text>
+<rect width="1398" height="243" x="1" y="1" rx="19" stroke="#a8bdde" stroke-opacity=".24" fill="none"/></svg>

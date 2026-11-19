@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" height="335" viewBox="0 0 690 335" role="img" aria-label="monster-card project card">
+<title>monster-card project card</title><defs><linearGradient id="cbg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111526"/><stop offset="1" stop-color="#090e1a"/></linearGradient><radialGradient id="halo"><stop stop-color="#c5ff87" stop-opacity=".2"/><stop offset="1" stop-color="#c5ff87" stop-opacity="0"/></radialGradient><filter id="blur"><feGaussianBlur stdDeviation="10"/></filter><clipPath id="box"><rect x="0" y="0" width="690" height="335" rx="18"/></clipPath></defs><g clip-path="url(#box)">
+<rect width="690" height="335" fill="url(#cbg)"/>
+<circle cx="570" cy="168" r="250" fill="url(#halo)"/>
+<path d="M30 69H660" stroke="#8193b7" stroke-opacity=".28"/>
+<circle cx="37" cy="34" r="5" fill="#c5ff87"/>
+<text x="52" y="40" font-family="'Consolas', 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="1.4" font-weight="500" fill="#dce7fa">01 / MONSTER-CARD</text>
+<text x="655" y="40" font-family="'Consolas', 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="0.5" font-weight="600" fill="#c5ff87" text-anchor="end">OPEN PROJECT ↗</text>
+<rect x="313" y="95" width="335" height="136" rx="12" fill="#1d2335" stroke="#7f8da9" stroke-opacity=".4"/>
+<rect x="313" y="95" width="335" height="20" rx="12" fill="#2c3248"/>
+<circle cx="333" cy="105" r="3" fill="#c36a7b"/>
+<circle cx="344" cy="105" r="3" fill="#e3c47d"/>
+<circle cx="355" cy="105" r="3" fill="#b4e29a"/>
+<rect x="329" y="126" width="94" height="90" rx="6" fill="#283349"/>
+<rect x="431" y="126" width="199" height="22" rx="6" fill="#26354d"/>
+<rect x="431" y="156" width="174" height="10" rx="5" fill="#384560"/>
+<rect x="431" y="177" width="142" height="10" rx="5" fill="#384560"/>
+<rect x="346" y="143" width="58" height="48" rx="6" fill="#b3a3ff" fill-opacity=".09" stroke="#b3a3ff" stroke-opacity=".7"/>
+<path d="M500 155 l13 43 9 -13 13 6 -35 -36Z" fill="#e8e7ff" stroke="#9c9ee4" stroke-width="2"/>
+<circle cx="518" cy="196" r="22" stroke="#d9ff7a" fill="none" stroke-dasharray="3 5" opacity=".9"/>
+<text x="34" y="252" font-family="'Inter Display', 'Arial', sans-serif" font-size="49" font-weight="800" fill="#f3f4ff" letter-spacing="-1.8" opacity="1">MONSTER</text>
+<text x="36" y="286" font-family="'Consolas', 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="0.6" font-weight="500" fill="#a9b9d6">VISUAL AI AGENT  /  EXPERIMENTAL</text>
+<rect x="1" y="1" width="688" height="333" rx="17" fill="none" stroke="#c5ff87" stroke-opacity=".25"/>
+</g></svg>
